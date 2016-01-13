@@ -1,0 +1,12 @@
+C:\Users\Ekta\AppData\Local\Temporary Projects\Week13Table\bin\Debug\Week13Table.exe.config
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\Week13Table\Week13Table\bin\Debug\Week13Table.exe.config
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\Week13Table\Week13Table\bin\Debug\Employee.accdb
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\Week13Table\Week13Table\bin\Debug\Week13Table.exe
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\Week13Table\Week13Table\bin\Debug\Week13Table.pdb
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\Week13Table\Week13Table\bin\Debug\Week13Table.xml
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\Week13Table\Week13Table\obj\Debug\Week13Table.Form1.resources
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\Week13Table\Week13Table\obj\Debug\Week13Table.Resources.resources
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\Week13Table\Week13Table\obj\Debug\Week13Table.vbproj.GenerateResource.Cache
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\Week13Table\Week13Table\obj\Debug\Week13Table.exe
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\Week13Table\Week13Table\obj\Debug\Week13Table.xml
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\Week13Table\Week13Table\obj\Debug\Week13Table.pdb

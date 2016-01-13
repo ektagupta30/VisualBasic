@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Week8ArrayAssignment", "Week8ArrayAssignment\Week8ArrayAssignment.vbproj", "{906D49C5-06B6-4054-BDB3-07EC76717E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906D49C5-06B6-4054-BDB3-07EC76717E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906D49C5-06B6-4054-BDB3-07EC76717E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906D49C5-06B6-4054-BDB3-07EC76717E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906D49C5-06B6-4054-BDB3-07EC76717E42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

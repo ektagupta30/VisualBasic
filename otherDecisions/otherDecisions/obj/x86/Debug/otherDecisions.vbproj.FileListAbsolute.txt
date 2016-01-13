@@ -1,0 +1,34 @@
+C:\Documents and Settings\Priscilla\Local Settings\Application Data\Temporary Projects\otherDecisions\bin\Debug\otherDecisions.exe
+C:\Documents and Settings\Priscilla\Local Settings\Application Data\Temporary Projects\otherDecisions\bin\Debug\otherDecisions.pdb
+C:\Documents and Settings\Priscilla\Local Settings\Application Data\Temporary Projects\otherDecisions\bin\Debug\otherDecisions.xml
+C:\Documents and Settings\Priscilla\Local Settings\Application Data\Temporary Projects\otherDecisions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Priscilla\Local Settings\Application Data\Temporary Projects\otherDecisions\obj\x86\Debug\otherDecisions.frmOtherDecisions.resources
+C:\Documents and Settings\Priscilla\Local Settings\Application Data\Temporary Projects\otherDecisions\obj\x86\Debug\otherDecisions.Resources.resources
+C:\Documents and Settings\Priscilla\Local Settings\Application Data\Temporary Projects\otherDecisions\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Priscilla\Local Settings\Application Data\Temporary Projects\otherDecisions\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Priscilla\Local Settings\Application Data\Temporary Projects\otherDecisions\obj\x86\Debug\otherDecisions.exe
+C:\Documents and Settings\Priscilla\Local Settings\Application Data\Temporary Projects\otherDecisions\obj\x86\Debug\otherDecisions.xml
+C:\Documents and Settings\Priscilla\Local Settings\Application Data\Temporary Projects\otherDecisions\obj\x86\Debug\otherDecisions.pdb
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\otherDecisions\otherDecisions\obj\x86\Debug\otherDecisions.exe
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\otherDecisions\otherDecisions\obj\x86\Debug\otherDecisions.xml
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\otherDecisions\otherDecisions\obj\x86\Debug\otherDecisions.pdb
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\otherDecisions\otherDecisions\bin\Debug\otherDecisions.exe
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\otherDecisions\otherDecisions\bin\Debug\otherDecisions.pdb
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\otherDecisions\otherDecisions\bin\Debug\otherDecisions.xml
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\otherDecisions\otherDecisions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\otherDecisions\otherDecisions\obj\x86\Debug\otherDecisions.frmOtherDecisions.resources
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\otherDecisions\otherDecisions\obj\x86\Debug\otherDecisions.Resources.resources
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\otherDecisions\otherDecisions\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\otherDecisions\otherDecisions\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\otherDecisions\otherDecisions\obj\x86\Debug\otherDecisions.exe
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\otherDecisions\otherDecisions\obj\x86\Debug\otherDecisions.xml
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\otherDecisions\otherDecisions\obj\x86\Debug\otherDecisions.pdb
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\otherDecisions\otherDecisions\bin\Debug\otherDecisions.exe
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\otherDecisions\otherDecisions\bin\Debug\otherDecisions.pdb
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\otherDecisions\otherDecisions\bin\Debug\otherDecisions.xml
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\otherDecisions\otherDecisions\obj\x86\Debug\otherDecisions.frmOtherDecisions.resources
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\otherDecisions\otherDecisions\obj\x86\Debug\otherDecisions.Resources.resources
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\otherDecisions\otherDecisions\obj\x86\Debug\otherDecisions.vbproj.GenerateResource.Cache
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\old Projects\otherDecisions\otherDecisions\obj\x86\Debug\otherDecisions.exe
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\old Projects\otherDecisions\otherDecisions\obj\x86\Debug\otherDecisions.xml
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\old Projects\otherDecisions\otherDecisions\obj\x86\Debug\otherDecisions.pdb

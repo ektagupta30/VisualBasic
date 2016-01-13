@@ -1,0 +1,23 @@
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\PayCalc\PayCalc\bin\Debug\PayCalc.exe
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\PayCalc\PayCalc\bin\Debug\PayCalc.pdb
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\PayCalc\PayCalc\bin\Debug\PayCalc.xml
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\PayCalc\PayCalc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\PayCalc\PayCalc\obj\x86\Debug\PayCalc.frmPayCalc.resources
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\PayCalc\PayCalc\obj\x86\Debug\PayCalc.Resources.resources
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\PayCalc\PayCalc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\PayCalc\PayCalc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\PayCalc\PayCalc\obj\x86\Debug\PayCalc.exe
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\PayCalc\PayCalc\obj\x86\Debug\PayCalc.xml
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\PayCalc\PayCalc\obj\x86\Debug\PayCalc.pdb
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\PayCalc\PayCalc\obj\x86\Debug\PayCalc.exe
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\PayCalc\PayCalc\obj\x86\Debug\PayCalc.xml
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\PayCalc\PayCalc\obj\x86\Debug\PayCalc.pdb
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\PayCalc\PayCalc\bin\Debug\PayCalc.exe
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\PayCalc\PayCalc\bin\Debug\PayCalc.pdb
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\PayCalc\PayCalc\bin\Debug\PayCalc.xml
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\PayCalc\PayCalc\obj\x86\Debug\PayCalc.frmPayCalc.resources
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\PayCalc\PayCalc\obj\x86\Debug\PayCalc.Resources.resources
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\PayCalc\PayCalc\obj\x86\Debug\PayCalc.vbproj.GenerateResource.Cache
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\old Projects\PayCalc\PayCalc\obj\x86\Debug\PayCalc.exe
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\old Projects\PayCalc\PayCalc\obj\x86\Debug\PayCalc.xml
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\old Projects\PayCalc\PayCalc\obj\x86\Debug\PayCalc.pdb

@@ -1,0 +1,20 @@
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\introExceptionProj\introExceptionProj\bin\Debug\introExceptionProj.exe
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\introExceptionProj\introExceptionProj\bin\Debug\introExceptionProj.pdb
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\introExceptionProj\introExceptionProj\bin\Debug\introExceptionProj.xml
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\introExceptionProj\introExceptionProj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\introExceptionProj\introExceptionProj\obj\x86\Debug\introExceptionProj.introExceptionForm.resources
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\introExceptionProj\introExceptionProj\obj\x86\Debug\introExceptionProj.Resources.resources
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\introExceptionProj\introExceptionProj\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\introExceptionProj\introExceptionProj\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\introExceptionProj\introExceptionProj\obj\x86\Debug\introExceptionProj.exe
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\introExceptionProj\introExceptionProj\obj\x86\Debug\introExceptionProj.xml
+C:\Documents and Settings\Priscilla\My Documents\courses2008forward\CIS56\VB10Sp11\introExceptionProj\introExceptionProj\obj\x86\Debug\introExceptionProj.pdb
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\introExceptionProj\introExceptionProj\obj\x86\Debug\introExceptionProj.exe
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\introExceptionProj\introExceptionProj\obj\x86\Debug\introExceptionProj.xml
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\introExceptionProj\introExceptionProj\obj\x86\Debug\introExceptionProj.pdb
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\introExceptionProj\introExceptionProj\bin\Debug\introExceptionProj.exe
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\introExceptionProj\introExceptionProj\bin\Debug\introExceptionProj.pdb
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\introExceptionProj\introExceptionProj\bin\Debug\introExceptionProj.xml
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\introExceptionProj\introExceptionProj\obj\x86\Debug\introExceptionProj.introExceptionForm.resources
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\introExceptionProj\introExceptionProj\obj\x86\Debug\introExceptionProj.Resources.resources
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\introExceptionProj\introExceptionProj\obj\x86\Debug\introExceptionProj.vbproj.GenerateResource.Cache

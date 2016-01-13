@@ -1,0 +1,12 @@
+C:\Users\Ekta\AppData\Local\Temporary Projects\PayrollDatabase\bin\Debug\PayrollDatabase.exe.config
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\PayrollDatabase\PayrollDatabase\bin\Debug\PayrollDatabase.exe.config
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\PayrollDatabase\PayrollDatabase\bin\Debug\PayrollDatabase.exe
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\PayrollDatabase\PayrollDatabase\bin\Debug\PayrollDatabase.pdb
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\PayrollDatabase\PayrollDatabase\bin\Debug\PayrollDatabase.xml
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\PayrollDatabase\PayrollDatabase\obj\Debug\PayrollDatabase.Resources.resources
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\PayrollDatabase\PayrollDatabase\obj\Debug\PayrollDatabase.vbproj.GenerateResource.Cache
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\PayrollDatabase\PayrollDatabase\obj\Debug\PayrollDatabase.exe
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\PayrollDatabase\PayrollDatabase\obj\Debug\PayrollDatabase.xml
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\PayrollDatabase\PayrollDatabase\obj\Debug\PayrollDatabase.pdb
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\PayrollDatabase\PayrollDatabase\obj\Debug\PayrollDatabase.vbprojResolveAssemblyReference.cache
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\My Projects\PayrollDatabase\PayrollDatabase\obj\Debug\PayrollDatabase.Payroll.resources

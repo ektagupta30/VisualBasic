@@ -1,0 +1,16 @@
+C:\Users\Ekta\AppData\Local\Temporary Projects\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.Resources.resources
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.vbproj.GenerateResource.Cache
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.xml
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.xml
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.vbprojResolveAssemblyReference.cache
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\old Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\old Projects\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\old Projects\Assignment2\Assignment2\obj\Debug\Assignment2.xml
+C:\Users\Ekta\Documents\Visual Studio 2013\Projects\old Projects\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
